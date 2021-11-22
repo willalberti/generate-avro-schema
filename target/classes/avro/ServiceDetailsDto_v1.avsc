@@ -1,0 +1,1 @@
+{"type":"record","name":"ServiceDetailsDto","namespace":"com.vivo.avro.generateavroschema.domain","fields":[{"name":"geographicArea","type":["null","string"]},{"name":"network","type":["null","string"]},{"name":"protocolNumber","type":["null","string"]},{"name":"protocolType","type":["null","string"]}]}
